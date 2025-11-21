@@ -3,8 +3,6 @@
 **Scan any food in 0.5 seconds → Get calories, carbs, protein & fat instantly!**  
 A smart, beautiful, and fully responsive web app built as a **Final Year B.Tech Project**.
 
-**Live Demo**: https://nutriscan-ai.netlify.app (or your GitHub Pages link)  
-**Video Demo**: https://youtu.be/xyz (add your demo video later)
 
 ---
 
